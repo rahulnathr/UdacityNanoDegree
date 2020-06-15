@@ -1,5 +1,6 @@
 # UdacityNanoDegree
-Robotics Nano Degree 
+Robotics Software Engineer
+
 This repo outlines the projects I am doing as part of this course. I am trying this out as a part of 30 day Udacity Challenge
 
 ## Projects are 
