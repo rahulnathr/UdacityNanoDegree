@@ -7,3 +7,5 @@ This repo outlines the projects I am doing as part of this course. I am trying t
 1. Project 1 - Build My World
 2. Project 2 - Go Chase it
 3. Project 3 - Where Am I?
+4. Project 4 - Map My World!
+5. Project 5 - Home Service Robot
