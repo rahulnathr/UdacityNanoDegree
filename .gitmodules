@@ -1,0 +1,3 @@
+[submodule "project-5/slam_gmapping"]
+	path = project-5/slam_gmapping
+	url = https://github.com/ros-perception/slam_gmapping
